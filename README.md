@@ -3,6 +3,7 @@
 Software Engineering web application project with my six other classmates at San Francisco State University.
 
 Project Overview:
+
 An e-commerce website that allows user to sell, buy, trade used book at minimum cost. 
 
 The two main objectives of the website is to allow users to get books they
